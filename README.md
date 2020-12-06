@@ -1,3 +1,3 @@
 # cloud_study
 
-http://cloudstudy.myfrp.biz
+http://cloudstudy.myftp.biz
